@@ -5,6 +5,7 @@ The repository contains two datasets:
 2) Plant taxa of Spitzbergen, derived from GBIF (see references)
 
 Tasks:
+
 Create a multi-panel figure with:
 * a) plant occurrences on a map (summarise locations if needed)
 * b) pie charts of recorded order, families, genus (with relative sample size of the entire dataset)
