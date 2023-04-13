@@ -6,10 +6,10 @@ The repository contains two datasets:
 
 Tasks:
 Create a multi-panel figure with:
-a) plant occurrences on a map (summarise locations if needed)
-b) pie charts of recorded order, families, genus (with relative sample size of the entire dataset)
-c) barplot with number of observations per month
-d) Changes in species diversity over time (years)
+* a) plant occurrences on a map (summarise locations if needed)
+* b) pie charts of recorded order, families, genus (with relative sample size of the entire dataset)
+* c) barplot with number of observations per month
+* d) Changes in species diversity over time (years)
 
 
 ## Starting point
