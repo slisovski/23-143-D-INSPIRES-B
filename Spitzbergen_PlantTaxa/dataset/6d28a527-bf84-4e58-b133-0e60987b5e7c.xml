@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6d28a527-bf84-4e58-b133-0e60987b5e7c"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/3gdwj2</alternateIdentifier>
+                <alternateIdentifier>http://ipt.iobis.org/caribbeanobis/resource?r=nagisa</alternateIdentifier>
+        <title>NaGISA Project</title>
+            <creator>
+            <individualName>
+<givenName>EDUARDO</givenName>                    <surName>KLEIN</surName>
+            </individualName>
+<organizationName>UNIVERSIDAD SIMÓN BOLÍVAR</organizationName><positionName>CO-PI</positionName>            <address>
+<city>CARACAS</city><country>VENEZUELA</country>            </address>
+<electronicMailAddress>eklein@usb.ve</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0003-2935-7065</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Eduardo</givenName>                    <surName>Klein</surName>
+            </individualName>
+<organizationName>Universidad Simón Bolívar</organizationName><positionName>CO-PI</positionName>            <address>
+<city>Caracas</city><country>VENEZUELA</country>            </address>
+<electronicMailAddress>eklein@usb.ve</electronicMailAddress>            <userId directory="https://orcid.org/">0000-0003-2935-7065</userId>
+            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Cesar</givenName>                    <surName>Paz</surName>
+            </individualName>
+<organizationName>Universidad Simón Bolívar</organizationName><positionName>Research assistant</positionName>            <address>
+<deliveryPoint>Valle de Sartenejas, Campus USB</deliveryPoint><city>Gran Caracas</city><administrativeArea>Miranda</administrativeArea>            </address>
+<phone>+582129063052</phone><electronicMailAddress>csarpaz@gmail.com</electronicMailAddress>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2018-03-21
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Records obtained during campaigns and field activities of NaGISA project in various parts of the world.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Occurrence</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Observation</keyword>
+                        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+                </keywordSet>
+            <additionalInfo>
+                <para>marine, harvested by iOBIS</para>
+            </additionalInfo>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">http://nagisa.cbm.usb.ve/cms/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>From the tropics to the most extreme latitude oceans</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                2002-08-20
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2013-07-18
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <generalTaxonomicCoverage>This data set has a large variety and taxonomic diversity of records, from bacteria to vertebrates</generalTaxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Animalia</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Plantae</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Protista</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Chromista</taxonRankValue>
+                                </taxonomicClassification>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Fungi</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>Patricia</givenName>                    <surName>Miloslavich</surName>
+            </individualName>
+<organizationName>Universidad Simón Bolívar</organizationName><positionName>Research and professor</positionName>            <address>
+<deliveryPoint>Valle de Sartenejas, Campus USB</deliveryPoint><city>Gran Caracas</city><administrativeArea>Miranda</administrativeArea>            </address>
+<phone>+582129063052</phone><electronicMailAddress>pmilos@usb.ve</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-04-13T10:31:38Z</dateStamp>
+                <citation>Caribbean OBIS Node: NaGISA Project https://doi.org/10.15468/3gdwj2 accessed via GBIF.org on 2023-04-13.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

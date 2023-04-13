@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="72bbd511-a9a5-4d4d-92ce-4210b702a7a7"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/e8k0hv</alternateIdentifier>
+                <alternateIdentifier>https://www.ebi.ac.uk/metagenomics/studies/MGYS00004079</alternateIdentifier>
+        <title>Minor impact of ocean acidification to the structure of an Arctic sediment microbial community</title>
+            <creator>
+<organizationName>PML</organizationName>            </creator>
+            <metadataProvider>
+<organizationName>PML</organizationName>            </metadataProvider>
+            <pubDate>
+                2019-04-05
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Effects of ocean acidification on the diversity and structure of Arctic surface sediment bacterial and archaeal community was analysed in detail using 16S rRNA 454 pyrosequencing. Intact sediment cores were collected and exposed to one of five different pCO2 concentrations (380 (present day), 540, 750, 1120 and 3000 µatm) and RNA extracted after a period of 14 days exposure. Measurements of diversity and multivariate similarity indicated very little difference between pCO2 treatments. Only when the highest and lowest pCO2 treatments were compared were significant differences evident, namely increases in the abundance of the Halobacteria and differences to the presence/absence structure of the Planctomycetes. Members of the Planctomycetia also increased with increasing pCO2 concentration, particularly the Planctomyces, Schlesneria, Pirellula, Blastopirellula, Rhodopirellula and the Pir4 lineage, indicating that these groups may be able to take advantage of changing pH or pCO2 conditions. The modest response of the microbial communities associated with these sediments may be due to the low pore-water pH already experienced by sediment microbes or be a result of the high buffering capacity of marine sediments.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Metagenomics</keyword>
+                        <keyword>environmental genomics</keyword>
+                        <keywordThesaurus>N/A</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.ebi.ac.uk/metagenomics/studies/MGYS00004079</url>
+                </online>
+            </distribution>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+<organizationName>PML</organizationName>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Pipeline used: https://www.ebi.ac.uk/metagenomics/pipelines/4.1</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para></para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Effects of ocean acidification on the diversity and structure of Arctic surface sediment bacterial and archaeal community was analysed in detail using 16S rRNA 454 pyrosequencing. Intact sediment cores were collected and exposed to one of five different pCO2 concentrations (380 (present day), 540, 750, 1120 and 3000 µatm) and RNA extracted after a period of 14 days exposure. Measurements of diversity and multivariate similarity indicated very little difference between pCO2 treatments. Only when the highest and lowest pCO2 treatments were compared were significant differences evident, namely increases in the abundance of the Halobacteria and differences to the presence/absence structure of the Planctomycetes. Members of the Planctomycetia also increased with increasing pCO2 concentration, particularly the Planctomyces, Schlesneria, Pirellula, Blastopirellula, Rhodopirellula and the Pir4 lineage, indicating that these groups may be able to take advantage of changing pH or pCO2 conditions. The modest response of the microbial communities associated with these sediments may be due to the low pore-water pH already experienced by sediment microbes or be a result of the high buffering capacity of marine sediments.</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+            <project >
+                <title>Minor impact of ocean acidification to the structure of an Arctic sediment microbial community</title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-04-13T10:31:50Z</dateStamp>
+                <citation>MGnify (2019). Minor impact of ocean acidification to the structure of an Arctic sediment microbial community. Sampling event dataset https://doi.org/10.15468/e8k0hv accessed via GBIF.org on 2023-04-13.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

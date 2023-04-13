@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="616c201e-cac9-4e00-9dc9-0c90fdddb73e"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/ljr7jq</alternateIdentifier>
+                <alternateIdentifier>https://www.ebi.ac.uk/metagenomics/studies/MGYS00004420</alternateIdentifier>
+        <title>Sea ice and seawater Raw sequence reads</title>
+            <creator>
+<organizationName>University of Alaska Fairbanks</organizationName>            </creator>
+            <metadataProvider>
+<organizationName>University of Alaska Fairbanks</organizationName>            </metadataProvider>
+            <pubDate>
+                2019-11-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Fungi are vastly understudied in the marine realm and the extent of their functionality as nutrient cyclers and parasites is constrained by the current understandings of fungal distribution and drivers on global scales. To investigate fungal distributions, high throughput sequencing of the 18S and 28S rRNA genes were examined from across the western Arctic and sub-Arctic.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Metagenomics</keyword>
+                        <keyword>environmental genomics</keyword>
+                        <keywordThesaurus>N/A</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.ebi.ac.uk/metagenomics/studies/MGYS00004420</url>
+                </online>
+            </distribution>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+<organizationName>University of Alaska Fairbanks</organizationName>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Pipeline used: https://www.ebi.ac.uk/metagenomics/pipelines/4.1</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para></para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>Fungi are vastly understudied in the marine realm and the extent of their functionality as nutrient cyclers and parasites is constrained by the current understandings of fungal distribution and drivers on global scales. To investigate fungal distributions, high throughput sequencing of the 18S and 28S rRNA genes were examined from across the western Arctic and sub-Arctic.</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+            <project >
+                <title>Sea ice and seawater Raw sequence reads</title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-04-13T10:31:36Z</dateStamp>
+                <citation>MGnify (2019). Sea ice and seawater Raw sequence reads. Sampling event dataset https://doi.org/10.15468/ljr7jq accessed via GBIF.org on 2023-04-13.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

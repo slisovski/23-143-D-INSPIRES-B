@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="6d56415d-b007-4273-9c74-bcd6b2467434"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.17031/1629</alternateIdentifier>
+                <alternateIdentifier>6d56415d-b007-4273-9c74-bcd6b2467434</alternateIdentifier>
+                <alternateIdentifier>https://www.dassh.ac.uk/ipt/resource?r=cpr_public</alternateIdentifier>
+        <title>The CPR Survey</title>
+            <creator>
+            <individualName>
+<givenName>David</givenName>                    <surName>Johns</surName>
+            </individualName>
+<organizationName>The Marine Biological Association of the UK</organizationName><positionName>Head of CPR Survey</positionName>            <address>
+<deliveryPoint>The Laboratory, Citadel Hill, The Hoe</deliveryPoint><city>Plymouth</city><administrativeArea>Devon</administrativeArea><postalCode>PL1 2PB</postalCode><country>UNITED_KINGDOM</country>            </address>
+<phone>+44 1752 426492</phone><electronicMailAddress>djoh@mba.ac.uk</electronicMailAddress><onlineUrl>http://www.cprsurvey.org/</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-3270-6764</userId>
+            </creator>
+            <creator>
+            <individualName>
+<givenName>Derek</givenName>                    <surName>Broughton</surName>
+            </individualName>
+<organizationName>The Marine Biological Association of the UK</organizationName><positionName>Software Developer</positionName>            <address>
+<deliveryPoint>The Laboratory, Citadel Hill, The Hoe</deliveryPoint><city>Plymouth</city><administrativeArea>Devon</administrativeArea><postalCode>PL1 2PB</postalCode><country>UNITED_KINGDOM</country>            </address>
+<phone>+441752426492</phone><electronicMailAddress>derbro@mba.ac.uk</electronicMailAddress>            <userId directory="http://orcid.org/">0000-0002-2896-0906</userId>
+            </creator>
+            <metadataProvider>
+            <individualName>
+<givenName>Data</givenName>                    <surName>Team</surName>
+            </individualName>
+<organizationName>Data Archive for Marine Species and Habitats (DASSH)</organizationName><electronicMailAddress>dassh.enquiries@MBA.ac.uk</electronicMailAddress>            </metadataProvider>
+            <associatedParty>
+            <individualName>
+<givenName>Data</givenName>                    <surName>Team</surName>
+            </individualName>
+<electronicMailAddress>data@mba.ac.uk</electronicMailAddress>            <role>USER</role>
+            </associatedParty>
+            <pubDate>
+                2022-02-23
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>Sample position, UTC datetime, and Abundance for CPR Survey samples</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>CPR</keyword>
+                        <keyword>Time series</keyword>
+                        <keyword>Phytoplankton</keyword>
+                        <keyword>Zooplankton</keyword>
+                        <keyword>Samplingevent</keyword>
+                        <keyword>Monitoring</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+                </keywordSet>
+                <keywordSet>
+                        <keyword>Samplingevent</keyword>
+                        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type_2015-07-10.xml</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://data.cprsurvey.org/datacatalog/</url>
+                </online>
+            </distribution>
+            <coverage>
+                    <geographicCoverage>
+                            <geographicDescription>Atlantic, Arctic, and North Pacific Oceans</geographicDescription>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-180</westBoundingCoordinate>
+                                <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                                <northBoundingCoordinate>90</northBoundingCoordinate>
+                                <southBoundingCoordinate>-90</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1946-01-07
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                1946-01-07
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+            </coverage>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>annually</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+            <individualName>
+<givenName>David</givenName>                    <surName>Johns</surName>
+            </individualName>
+<organizationName>The Marine Biological Association of the UK</organizationName><positionName>Head of CPR Survey</positionName>            <address>
+<deliveryPoint>The Laboratory, Citadel Hill, The Hoe</deliveryPoint><city>Plymouth</city><administrativeArea>Devon</administrativeArea><postalCode>PL1 2PB</postalCode><country>UNITED_KINGDOM</country>            </address>
+<phone>+44 1752 426492</phone><electronicMailAddress>djoh@mba.ac.uk</electronicMailAddress><onlineUrl>http://www.cprsurvey.org/</onlineUrl>            <userId directory="http://orcid.org/">0000-0003-3270-6764</userId>
+            </contact>
+
+            <project >
+                <title>Continuous Plankton Recorder Survey (CPR Survey)</title>
+                    <personnel>
+            <individualName>
+<givenName>David</givenName>                    <surName>Johns</surName>
+            </individualName>
+            <userId directory="http://orcid.org/">0000-0003-3270-6764</userId>
+            <role>CUSTODIAN_STEWARD</role>
+                    </personnel>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-04-13T10:31:48Z</dateStamp>
+                <citation identifier="https://doi.org/10.17031/1629">Johns D, Broughton D, Team D (2022). The CPR Survey. Version 1.3. Marine Biological Association. Sampling event dataset https://doi.org/10.17031/1629 accessed via GBIF.org on 2023-04-13.</citation>
+                    <bibliography>
+                <citation identifier="https://doi.org/10.1016/j.pocean.2005.09.011">A.J. Richardson, A.W. Walne, A.W.G. John, T.D. Jonas, J.A. Lindley, D.W. Sims, D. Stevens, M. Witt, Using continuous plankton recorder data, Progress in Oceanography, Volume 68, Issue 1, 2006, Pages 27-74, ISSN 0079-6611, https://doi.org/10.1016/j.pocean.2005.09.011.
+(http://www.sciencedirect.com/science/article/pii/S0079661105001424)
+Keywords: Time series; Monitoring; CPR; Phytoplankton; Zooplankton; Diet; Size</citation>
+                    </bibliography>
+                        <collection>
+                            <parentCollectionIdentifier></parentCollectionIdentifier>
+                            <collectionIdentifier></collectionIdentifier>
+                            <collectionName>Continuous Plankton Recorder Dataset (CPR Survey)</collectionName>
+                        </collection>
+                        <specimenPreservationMethod>FORMALIN</specimenPreservationMethod>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

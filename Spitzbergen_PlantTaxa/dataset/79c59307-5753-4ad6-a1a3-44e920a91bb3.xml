@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="79c59307-5753-4ad6-a1a3-44e920a91bb3"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/0ohmqw</alternateIdentifier>
+                <alternateIdentifier>https://www.ebi.ac.uk/metagenomics/studies/MGYS00001869</alternateIdentifier>
+        <title>Shotgun Metagenomic Sequencing of the Arctic Ocean during Winter-Spring Transition</title>
+            <creator>
+<organizationName>CIIMAR - Interdisciplinary Centre of Marine and Environmental Research</organizationName>            </creator>
+            <metadataProvider>
+<organizationName>CIIMAR - Interdisciplinary Centre of Marine and Environmental Research</organizationName>            </metadataProvider>
+            <pubDate>
+                2020-11-17
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>One of the main concerns about the Arctic Ocean has been the changing sea ice regime with a reduction in the summer sea ice extent and a shift in dominance from thicker, perennial multiyear ice towards thinner, first-year ice. As the dietary basis of marine food webs and central players of biogeochemical cycles, microbial communities play an irreplaceable role when evaluating the ecological impact of the Arctics thinner ice regime. During the Norwegian young sea Ice cruise 2015 (N-ICE2015), that took place in drifting pack ice north of Svalbard between January-June 2015, seawater was collected, at 5, 20 or 50, 250 m depth in 9th March, 27th April and 16th June, together with physical and biogeochemical data. Through the massively parallel sequencing of environmental DNA (metagenomics) we expect to get a snapshot of the Arctics microbiome structure, key functions and dynamic through the dark-light transition.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Metagenomics</keyword>
+                        <keyword>environmental genomics</keyword>
+                        <keywordThesaurus>N/A</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.ebi.ac.uk/metagenomics/studies/MGYS00001869</url>
+                </online>
+            </distribution>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+<organizationName>CIIMAR - Interdisciplinary Centre of Marine and Environmental Research</organizationName>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Pipeline used: https://www.ebi.ac.uk/metagenomics/pipelines/5.0</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para></para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>One of the main concerns about the Arctic Ocean has been the changing sea ice regime with a reduction in the summer sea ice extent and a shift in dominance from thicker, perennial multiyear ice towards thinner, first-year ice. As the dietary basis of marine food webs and central players of biogeochemical cycles, microbial communities play an irreplaceable role when evaluating the ecological impact of the Arctics thinner ice regime. During the Norwegian young sea Ice cruise 2015 (N-ICE2015), that took place in drifting pack ice north of Svalbard between January-June 2015, seawater was collected, at 5, 20 or 50, 250 m depth in 9th March, 27th April and 16th June, together with physical and biogeochemical data. Through the massively parallel sequencing of environmental DNA (metagenomics) we expect to get a snapshot of the Arctics microbiome structure, key functions and dynamic through the dark-light transition.</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+            <project >
+                <title>Shotgun Metagenomic Sequencing of the Arctic Ocean during Winter-Spring Transition</title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-04-13T10:31:42Z</dateStamp>
+                <citation>MGnify (2020). Shotgun Metagenomic Sequencing of the Arctic Ocean during Winter-Spring Transition. Sampling event dataset https://doi.org/10.15468/0ohmqw accessed via GBIF.org on 2023-04-13.</citation>
+                    <bibliography>
+                <citation identifier="DOI:10.1099/mgen.0.000731">Rego A, Fernandez-Guerra A, Duarte P, Assmy P, Leão PN, Magalhães C. 2021. Secondary metabolite biosynthetic diversity in Arctic Ocean metagenomes. Microb Genom vol. 7</citation>
+                <citation identifier="DOI:10.1007/s00248-018-01314-2">de Sousa AGG, Tomasino MP, Duarte P, Fernández-Méndez M, Assmy P, Ribeiro H, Surkont J, Leite RB, Pereira-Leal JB, Torgo L, Magalhães C. 2019. Diversity and Composition of Pelagic Prokaryotic and Protist Communities in a Thin Arctic Sea-Ice Regime. Microb Ecol vol. 78</citation>
+                    </bibliography>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

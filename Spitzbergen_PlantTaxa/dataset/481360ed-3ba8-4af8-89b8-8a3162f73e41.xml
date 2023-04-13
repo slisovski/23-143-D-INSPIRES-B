@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="481360ed-3ba8-4af8-89b8-8a3162f73e41"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/rm9uht</alternateIdentifier>
+                <alternateIdentifier>https://www.ebi.ac.uk/metagenomics/studies/MGYS00004400</alternateIdentifier>
+        <title>Bacterial biogeography of a High Arctic ice cap</title>
+            <creator>
+<organizationName>Aberystwyth University</organizationName>            </creator>
+            <metadataProvider>
+<organizationName>Aberystwyth University</organizationName>            </metadataProvider>
+            <pubDate>
+                2019-11-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>This study investigates the roles of dispersal, environmental and biotic filtration in bacterial assemblies, in order to understand the environmental influences in cryoconite ecosystems. Foxfonna dome is used as a model ecosystem to observe the bacterial biogeography of an ice cap.</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Metagenomics</keyword>
+                        <keyword>environmental genomics</keyword>
+                        <keywordThesaurus>N/A</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.ebi.ac.uk/metagenomics/studies/MGYS00004400</url>
+                </online>
+            </distribution>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+<organizationName>Aberystwyth University</organizationName>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Pipeline used: https://www.ebi.ac.uk/metagenomics/pipelines/4.1</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para></para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>This study investigates the roles of dispersal, environmental and biotic filtration in bacterial assemblies, in order to understand the environmental influences in cryoconite ecosystems. Foxfonna dome is used as a model ecosystem to observe the bacterial biogeography of an ice cap.</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+            <project >
+                <title>Bacterial biogeography of a High Arctic ice cap</title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-04-13T10:31:40Z</dateStamp>
+                <citation>MGnify (2019). Bacterial biogeography of a High Arctic ice cap. Sampling event dataset https://doi.org/10.15468/rm9uht accessed via GBIF.org on 2023-04-13.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

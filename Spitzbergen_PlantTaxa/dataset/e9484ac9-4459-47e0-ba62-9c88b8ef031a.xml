@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="e9484ac9-4459-47e0-ba62-9c88b8ef031a"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/nkhxt9</alternateIdentifier>
+                <alternateIdentifier>http://tun.fi/HR.771</alternateIdentifier>
+        <title>TUR Bryophyte collections of the Turku University (TUR)</title>
+            <pubDate>
+                2023-04-08
+            </pubDate>
+        <language>en</language>
+            <abstract>
+                    <para>Bryophyte collections of the Turku University Herbarium (TUR)</para>
+            </abstract>
+            <intellectualRights>
+                    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+            </intellectualRights>
+            <coverage>
+                    <geographicCoverage>
+                            <boundingCoordinates>
+                                <westBoundingCoordinate>-122.427</westBoundingCoordinate>
+                                <eastBoundingCoordinate>172.383</eastBoundingCoordinate>
+                                <northBoundingCoordinate>80.218</northBoundingCoordinate>
+                                <southBoundingCoordinate>-64.159</southBoundingCoordinate>
+                            </boundingCoordinates>
+                    </geographicCoverage>
+                    <temporalCoverage>
+                            <rangeOfDates>
+                                <beginDate>
+                                    <calendarDate>                1800-01-01
+</calendarDate>
+                                </beginDate>
+                                <endDate>
+                                    <calendarDate>                2022-11-12
+</calendarDate>
+                                </endDate>
+                            </rangeOfDates>
+                    </temporalCoverage>
+                        <taxonomicCoverage>
+                                <taxonomicClassification>
+                                        <taxonRankName>Kingdom</taxonRankName>
+                                    <taxonRankValue>Plantae</taxonRankValue>
+                                </taxonomicClassification>
+                        </taxonomicCoverage>
+            </coverage>
+            <contact>
+            <individualName>
+<givenName>Sanna</givenName>                    <surName>Huttunen</surName>
+            </individualName>
+<electronicMailAddress>shuttu@utu.fi</electronicMailAddress>            </contact>
+            <contact>
+            <individualName>
+                    <surName>FinBIF</surName>
+            </individualName>
+<electronicMailAddress>helpdesk@laji.fi</electronicMailAddress>            </contact>
+            <methods>
+            </methods>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-04-13T10:31:46Z</dateStamp>
+                <citation>Finnish Biodiversity Information Facility (2023). TUR Bryophyte collections of the Turku University (TUR). Occurrence dataset https://doi.org/10.15468/nkhxt9 accessed via GBIF.org on 2023-04-13.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

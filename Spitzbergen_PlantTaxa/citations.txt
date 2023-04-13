@@ -1,0 +1,84 @@
+When using this dataset please use the following citation and pay attention to the rights documented in rights.txt:
+MGnify (2019). Sea ice and seawater Raw sequence reads. Sampling event dataset https://doi.org/10.15468/ljr7jq accessed via GBIF.org on 2023-04-13.
+Vellak K. University of Tartu Natural History Museum and Botanical Garden Botanical Collections. University of Tartu, Natural History Museum and Botanical Garden. Occurrence dataset https://doi.org/10.15468/5hqb2z accessed via GBIF.org on 2023-04-13.
+Yang L, Xu Z (2023). World Plant Specimen from the Herbaria in China. Chinese Academy of Sciences (CAS). Occurrence dataset https://doi.org/10.15468/ydqvcq accessed via GBIF.org on 2023-04-13.
+Peat H, Whitelaw M (2022). Antarctic Plant Database. UK Polar Data Centre. Occurrence dataset https://doi.org/10.15468/6dgnjf accessed via GBIF.org on 2023-04-13.
+Norwegian University of Science and Technology (2023). Vascular plant herbarium TRH, NTNU University Museum. Version 30.2201. Occurrence dataset https://doi.org/10.15468/zrlqok accessed via GBIF.org on 2023-04-13.
+Caribbean OBIS Node: NaGISA Project https://doi.org/10.15468/3gdwj2 accessed via GBIF.org on 2023-04-13.
+European Bioinformatics Institute (EMBL-EBI), GBIF Helpdesk (2023). INSDC Environment Sample Sequences. Version 1.26. European Nucleotide Archive (EMBL-EBI). Occurrence dataset https://doi.org/10.15468/mcmd5g accessed via GBIF.org on 2023-04-13.
+naturgucker.de. naturgucker. Occurrence dataset https://doi.org/10.15468/uc1apo accessed via GBIF.org on 2023-04-13.
+Rämä H (2023). Bryophyte herbarium, The Arctic University Museum of Norway (TROM). Version 1.2131. UiT The Arctic University of Norway. Occurrence dataset https://doi.org/10.15468/3yzuuc accessed via GBIF.org on 2023-04-13.
+Natural History Museum, Vienna. Natural History Museum, Vienna - Herbarium W. Occurrence dataset https://doi.org/10.15468/5sl7sh accessed via GBIF.org on 2023-04-13.
+MGnify (2019). Bacterial biogeography of a High Arctic ice cap. Sampling event dataset https://doi.org/10.15468/rm9uht accessed via GBIF.org on 2023-04-13.
+MGnify (2020). SSU rRNA amplicon of the Arctic Ocean during Winter-Spring Transition. Sampling event dataset https://doi.org/10.15468/v46e2k accessed via GBIF.org on 2023-04-13.
+MGnify (2019). Controls on microalgal community structures in cryoconite holes upon high Arctic glaciers, Svalbard. Sampling event dataset https://doi.org/10.15468/8xqykj accessed via GBIF.org on 2023-04-13.
+Tiroler Landesmuseum Ferdinandeum. Tiroler Landesmuseum Ferdinandeum. Occurrence dataset https://doi.org/10.15468/eepzxm accessed via GBIF.org on 2023-04-13.
+Arnesen G (2019). Ecofact. Version 1.8. Ecofact. Occurrence dataset https://doi.org/10.15468/k88vjq accessed via GBIF.org on 2023-04-13.
+MGnify (2020). Shotgun Metagenomic Sequencing of the Arctic Ocean during Winter-Spring Transition. Sampling event dataset https://doi.org/10.15468/0ohmqw accessed via GBIF.org on 2023-04-13.
+Conservation of Arctic Flora and Fauna: Phytoplankton from the White Sea, Barents Sea, Norwegian Sea and Arctic Basin 1993-2003 https://doi.org/10.15468/tvpmov accessed via GBIF.org on 2021-12-08. accessed via GBIF.org on 2023-04-13.
+Assmy P, Gradinger R, Edvardsen B, Wiktor J, Tatarek A, Kubiszyn A M, Goraguer L, Wold A (2022). Nansen Legacy JC1 phytoplankton biodiversity. The Nansen Legacy Project. Sampling event dataset https://doi.org/10.21334/npolar.2022.c86f931f accessed via GBIF.org on 2023-04-13.
+Tela Botanica. Carnet en Ligne. Occurrence dataset https://doi.org/10.15468/rydcn2 accessed via GBIF.org on 2023-04-13.
+MGnify (2021). Arctic microbiome along Svalbard Cross Shelf transects. Sampling event dataset https://doi.org/10.15468/zkjo9v accessed via GBIF.org on 2023-04-13.
+Rämä H E (2023). Vascular plant herbarium, The Arctic University Museum of Norway (TROM). Version 1.2145. UiT The Arctic University of Norway. Occurrence dataset https://doi.org/10.15468/14epds accessed via GBIF.org on 2023-04-13.
+Rinde E, Liebe H (2020). Artsprosjektet 43-15, Norway's hidden marine biodiversity: The hunt for cryptic species within the coralline algae. Version 1.3. The Norwegian Biodiversity Information Centre (NBIC). Occurrence dataset https://doi.org/10.15468/pykacf accessed via GBIF.org on 2023-04-13.
+Fraunhofer-Institute for Biomedical Engineering IBMT - Group Extremophile Research and Biobank CCCryo. Culture Collection of Cryophilic Algae. Occurrence dataset https://doi.org/10.15468/hnlxs3 accessed via GBIF.org on 2023-04-13.
+University of Graz, Institute of Plant Sciences. University of Graz, Institute of Plant Sciences - Herbarium GZU. Occurrence dataset https://doi.org/10.15468/axtkuz accessed via GBIF.org on 2023-04-13.
+The International Barcode of Life Consortium (2023). International Barcode of Life project (iBOL). Occurrence dataset https://doi.org/10.15468/inygc6 accessed via GBIF.org on 2023-04-13.
+Masaryk University, Department of Botany and Zoology. Masaryk University - Herbarium BRNU. Occurrence dataset https://doi.org/10.15468/soarvd accessed via GBIF.org on 2023-04-13.
+Finnish Biodiversity Information Facility (2023). TUR Bryophyte collections of the Turku University (TUR). Occurrence dataset https://doi.org/10.15468/nkhxt9 accessed via GBIF.org on 2023-04-13.
+MGnify (2019). marine sediment metagenome Metagenome. Sampling event dataset https://doi.org/10.15468/90u874 accessed via GBIF.org on 2023-04-13.
+Teisher J, Stimmel H (2023). Tropicos MO Specimen Data. Missouri Botanical Garden. Occurrence dataset https://doi.org/10.15468/hja69f accessed via GBIF.org on 2023-04-13.
+Assmy P, Gradinger R, Edvardsen B, Wiktor J, Tatarek A, Smola Z, Goraguer L, Wold A (2022). Nansen Legacy JC2-1 ice algae biodiversity. Version 1.4. The Nansen Legacy Project. Sampling event dataset https://doi.org/10.21334/npolar.2022.afe4302c accessed via GBIF.org on 2023-04-13.
+Assmy P, Gradinger R, Edvardsen B, Wiktor J, Kubiszyn A M, Tatarek A, Wold A (2022). Nansen Legacy Q3 phytoplankton biodiversity. The Nansen Legacy Project. Sampling event dataset https://doi.org/10.21334/npolar.2022.dadccf78 accessed via GBIF.org on 2023-04-13.
+Melechin A, Konstantinova N, Davydov D, Borovitchev E, Shalygin S (2021). L. IS dataset. Cyanoprocaryota, Lichens, Bryophyte. Version 1.7. L.. Occurrence dataset https://doi.org/10.15468/ccjgny accessed via GBIF.org on 2023-04-13.
+Johns D, Broughton D, Team D (2022). The CPR Survey. Version 1.3. Marine Biological Association. Sampling event dataset https://doi.org/10.17031/1629 accessed via GBIF.org on 2023-04-13.
+de Vries H, Lemmens M (2023). Observation.org, Nature data from around the World. Observation.org. Occurrence dataset https://doi.org/10.15468/5nilie accessed via GBIF.org on 2023-04-13.
+Blindheim T (2023). Biofokus. Version 1.2324. Biofokus. Occurrence dataset https://doi.org/10.15468/jxbhqx accessed via GBIF.org on 2023-04-13.
+University of Oslo (2023). Vascular Plant Herbarium, Oslo (O) UiO. Version 1.2142. Occurrence dataset https://doi.org/10.15468/wtlymk accessed via GBIF.org on 2023-04-13.
+Forzza R, Estevão L A, Dalcin E (2023). RB - Rio de Janeiro Botanical Garden Herbarium Collection. Version 84.243. Instituto de Pesquisas Jardim Botanico do Rio de Janeiro. Occurrence dataset https://doi.org/10.15468/7ep9i2 accessed via GBIF.org on 2023-04-13.
+MGnify (2019). Minor impact of ocean acidification to the structure of an Arctic sediment microbial community. Sampling event dataset https://doi.org/10.15468/e8k0hv accessed via GBIF.org on 2023-04-13.
+Botanic Garden and Botanical Museum Berlin (2017). Herbarium Berolinense, Berlin (B). Occurrence dataset https://doi.org/10.15468/dlwwhz accessed via GBIF.org on 2023-04-13.
+Assmy P, Gradinger R, Edvardsen B, Wiktor J, Tatarek A, Wold A (2022). Nansen Legacy Q2 ice algae biodiversity slurpgun. Version 1.1. The Nansen Legacy Project. Sampling event dataset https://doi.org/10.21334/npolar.2022.761bde20 accessed via GBIF.org on 2023-04-13.
+Norwegian University of Science and Technology (2023). Algae herbarium TRH, NTNU University Museum. Version 11.2499. Occurrence dataset https://doi.org/10.15468/elzhsu accessed via GBIF.org on 2023-04-13.
+Laudien J, Orchard J (2012). Counts of benthos communities in Kongsfjorden in 2009. PANGAEA - Publishing Network for Geoscientific and Environmental Data. Occurrence dataset https://doi.org/10.1594/pangaea.753197 accessed via GBIF.org on 2023-04-13.
+MGnify (2019). particle-attached and free-living bacteria kongsfjorden. Sampling event dataset https://doi.org/10.15468/hmsjbx accessed via GBIF.org on 2023-04-13.
+Pajur M. Tallinn Botanic Garden. Tallinn Botanic Garden. Occurrence dataset https://doi.org/10.15468/hfs8d4 accessed via GBIF.org on 2023-04-13.
+University of Agder (2023). Vascular plant herbarium (KMN) UiA. Version 1.2164. Occurrence dataset https://doi.org/10.15468/2g6i0v accessed via GBIF.org on 2023-04-13.
+European Bioinformatics Institute (EMBL-EBI), GBIF Helpdesk (2023). INSDC Host Organism Sequences. Version 1.26. European Nucleotide Archive (EMBL-EBI). Occurrence dataset https://doi.org/10.15468/e97kmy accessed via GBIF.org on 2023-04-13.
+Wittzell H, Shah M (2022). Lund Botanical Museum (LD). Lund Botanical Museum (LD). Occurrence dataset https://doi.org/10.15468/c4w4co accessed via GBIF.org on 2023-04-13.
+Universität Salzburg. Universität Salzburg. Occurrence dataset https://doi.org/10.15468/ufqq8d accessed via GBIF.org on 2023-04-13.
+Assmy P, Gradinger R, Edvardsen B, Wiktor J, Tatarek A, Gorageur L, Wold A (2022). Nansen Legacy Q4 ice algae biodiversity. The Nansen Legacy Project. Sampling event dataset https://doi.org/10.21334/npolar.2022.a5059ae6 accessed via GBIF.org on 2023-04-13.
+MGnify (2019). Aldegondabreen cryoconite Targeted Locus. Sampling event dataset https://doi.org/10.15468/purf61 accessed via GBIF.org on 2023-04-13.
+Assmy P, Gradinger R, Edvardsen B, Wiktor J, Tatarek A, Gorageur L, Wold A (2022). Nansen Legacy Q2 ice algae biodiversity. The Nansen Legacy Project. Sampling event dataset https://doi.org/10.21334/npolar.2022.761bde20 accessed via GBIF.org on 2023-04-13.
+The Norwegian Biodiversity Information Centre ., Hoem S (2023). Norwegian Species Observation Service. Version 1.220. The Norwegian Biodiversity Information Centre (NBIC). Occurrence dataset https://doi.org/10.15468/zjbzel accessed via GBIF.org on 2023-04-13.
+Wheeler E, Guest H (2023). Royal BC Museum - Herbarium (V). Version 2.2. Royal British Columbia Museum. Occurrence dataset https://doi.org/10.5886/yxupar accessed via GBIF.org on 2023-04-13.
+Magnaghi E, Fong J (2023). CAS Botany (BOT). Version 157.494. California Academy of Sciences. Occurrence dataset https://doi.org/10.15468/7gudyo accessed via GBIF.org on 2023-04-13.
+University of Vienna - Herbarium WU. University of Vienna, Institute for Botany - Herbarium WU. Occurrence dataset https://doi.org/10.15468/tnj8wm accessed via GBIF.org on 2023-04-13.
+Crop Wild Relatives Occurrence data consortia (2018). A global database for the distributions of crop wild relatives. Version 1.12. Centro Internacional de Agricultura Tropical - CIAT. Occurrence dataset https://doi.org/10.15468/jyrthk accessed via GBIF.org on 2023-04-13.
+Alaska Ocean Observing System: Arctic Ocean Diversity https://doi.org/10.15468/xrzanm accessed via GBIF.org on 2023-04-13.
+Kukk T. Estonian University of Life Sciences Institute of Agricultural and Environmental Sciences Vascular Plant Herbarium. Estonian University of Life Sciences. Occurrence dataset https://doi.org/10.15468/m3x9uu accessed via GBIF.org on 2023-04-13.
+Hassel K (2023). Bryophyte herbarium TRH, NTNU University Museum. Version 1.2435. Norwegian University of Science and Technology. Occurrence dataset https://doi.org/10.15468/zxu8zu accessed via GBIF.org on 2023-04-13.
+Assmy P, Gradinger R, Edvardsen B, Wiktor J, Tatarek A, Kubiszyn A M, Goraguer L, Wold A (2022). Nansen Legacy JC2-1 phytoplankton biodiversity. The Nansen Legacy Project. Sampling event dataset https://doi.org/10.21334/npolar.2022.afe4302c accessed via GBIF.org on 2023-04-13.
+Assmy P, Gradinger R, Edvardsen B, Wiktor J, Kubiszyn A M, Tatarek A, Goraguer L, Wold A (2022). aen-q2-phytoplankton. The Nansen Legacy Project. Sampling event dataset https://doi.org/10.21334/npolar.2022.9c05c643 accessed via GBIF.org on 2023-04-13.
+Rob Cubey (2022). Royal Botanic Garden Edinburgh Herbarium (E). Royal Botanic Garden Edinburgh. Occurrence dataset https://doi.org/10.15468/ypoair accessed via GBIF.org on 2023-04-13.
+MNHN, Chagnoux S (2023). The cryptogamy collection (PC) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris). Version 70.303. MNHN - Museum national d'Histoire naturelle. Occurrence dataset https://doi.org/10.15468/mywiem accessed via GBIF.org on 2023-04-13.
+PlutoF. Global soil organisms. Occurrence dataset https://doi.org/10.15468/fdpeaw accessed via GBIF.org on 2023-04-13.
+Cris C O, Melechin A (2019). CRIS data set. Version 1.5. L.. Occurrence dataset https://doi.org/10.15468/zychiy accessed via GBIF.org on 2023-04-13.
+Norwegian Biodiversity Information Centre ., Hoem S (2022). Norwegian Biodiversity Information Centre - Other datasets. Version 13.236. The Norwegian Biodiversity Information Centre (NBIC). Occurrence dataset https://doi.org/10.15468/tm56sc accessed via GBIF.org on 2023-04-13.
+Teisher J, Stimmel H (2023). Tropicos Specimens Non-MO. Version 1.7. Missouri Botanical Garden. Occurrence dataset https://doi.org/10.15468/rxbp4w accessed via GBIF.org on 2023-04-13.
+European Bioinformatics Institute (EMBL-EBI), GBIF Helpdesk (2023). INSDC Sequences. Version 1.26. European Nucleotide Archive (EMBL-EBI). Occurrence dataset https://doi.org/10.15468/sbmztx accessed via GBIF.org on 2023-04-13.
+MGnify (2019). Temperature shifts simulating secondary oil recovery. Sampling event dataset https://doi.org/10.15468/d2wumc accessed via GBIF.org on 2023-04-13.
+CSIC-Real Jardín Botánico (2023). CSIC-Real Jardín Botánico-Colección de Musgos (MA-Musci). Real Jardín Botánico (CSIC). Occurrence dataset https://doi.org/10.15468/aj41tg accessed via GBIF.org on 2023-04-13.
+Steiermärkisches Landesmuseum Joanneum - Herbarium GJO. Steiermärkisches Landesmuseum Joanneum - Herbarium GJO. Occurrence dataset https://doi.org/10.15468/dmdck6 accessed via GBIF.org on 2023-04-13.
+AFFOUARD A, JOLY A, LOMBARDO J, CHAMP J, GOEAU H, CHOUET M, GRESSE H, BONNET P (2023). Pl@ntNet observations. Version 1.8. Pl@ntNet. Occurrence dataset https://doi.org/10.15468/gtebaa accessed via GBIF.org on 2023-04-13.
+AFFOUARD A, JOLY A, LOMBARDO J, CHAMP J, GOEAU H, CHOUET M, GRESSE H, BOTELLA C, BONNET P (2023). Pl@ntNet automatically identified occurrences. Version 1.8. Pl@ntNet. Occurrence dataset https://doi.org/10.15468/mma2ec accessed via GBIF.org on 2023-04-13.
+University of North Carolina at Chapel Hill Herbarium (NCU) (2023). University of North Carolina at Chapel Hill Herbarium; Max & Fran Hommersand Algae Herbarium: Algae. Occurrence dataset https://doi.org/10.15468/bbac62 accessed via GBIF.org on 2023-04-13.
+Ramirez J, Watson K, McMillin L, Gjieli E, Sessa E (2023). The New York Botanical Garden Herbarium (NY). Version 1.60. The New York Botanical Garden. Occurrence dataset https://doi.org/10.15468/6e8nje accessed via GBIF.org on 2023-04-13.
+Johannessen L E, Johnsen A (2023). NHMO DNA Bank Vascular plants collection. Version 1.163. University of Oslo. Occurrence dataset https://doi.org/10.15468/nzszik accessed via GBIF.org on 2023-04-13.
+Seregin A (2023). Moscow University Herbarium (MW). Version 1.275. Lomonosov Moscow State University. Occurrence dataset https://doi.org/10.15468/cpnhcc accessed via GBIF.org on 2023-04-13.
+Høiland K (2022). Photographs of higher plants, mosses, fungi, lichens, and algae. Version 1.17. University of Oslo. Occurrence dataset https://doi.org/10.15468/ft0c5f accessed via GBIF.org on 2023-04-13.
+Soudzilovskaia N A, Vaessen S, Barcelo M, He J, Rahimlou S, Abarenkov K, Brundrett M C, Gomes S, Merckx V, Martinez-Suz L, Tedersoo L. Taxon occurrence data for the FungalRoot database. PlutoF. Occurrence dataset https://doi.org/10.15468/a7ujmj accessed via GBIF.org on 2023-04-13.
+iNaturalist contributors, iNaturalist (2023). iNaturalist Research-grade Observations. iNaturalist.org. Occurrence dataset https://doi.org/10.15468/ab3s5x accessed via GBIF.org on 2023-04-13.
+MGnify (2019). Uncultered bacterium Targeted Locus (Loci). Sampling event dataset https://doi.org/10.15468/cb7j5j accessed via GBIF.org on 2023-04-13.
+MGnify (2019). Spirulina necromass degradartion in arctic marine sediments. Sampling event dataset https://doi.org/10.15468/zm1io0 accessed via GBIF.org on 2023-04-13.
+Botanic Garden and Botanical Museum Berlin. Culture Collection of Microalgae and Zygnematophyceae Collection Hamburg (MZCH-SVCK). Occurrence dataset https://doi.org/10.15468/vjkfej accessed via GBIF.org on 2023-04-13.

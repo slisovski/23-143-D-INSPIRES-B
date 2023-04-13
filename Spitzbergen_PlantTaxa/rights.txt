@@ -1,0 +1,166 @@
+Dataset: Sea ice and seawater Raw sequence reads 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Tartu Natural History Museum and Botanical Garden Botanical Collections 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: World Plant Specimen from the Herbaria in China 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Antarctic Plant Database 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vascular plant herbarium TRH, NTNU University Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: NaGISA Project 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: INSDC Environment Sample Sequences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: naturgucker 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bryophyte herbarium, The Arctic University Museum of Norway (TROM) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Natural History Museum, Vienna - Herbarium W 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bacterial biogeography of a High Arctic ice cap 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: SSU rRNA amplicon of the Arctic Ocean during Winter-Spring Transition 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Controls on microalgal community structures in cryoconite holes upon high Arctic glaciers, Svalbard 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tiroler Landesmuseum Ferdinandeum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ecofact 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Shotgun Metagenomic Sequencing of the Arctic Ocean during Winter-Spring Transition 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Phytoplankton from the White Sea, Barents Sea, Norwegian Sea and Arctic Basin 1993-2003 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Nansen Legacy JC1 phytoplankton biodiversity 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Carnet en Ligne 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Arctic microbiome along Svalbard Cross Shelf transects 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vascular plant herbarium, The Arctic University Museum of Norway (TROM) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Artsprosjektet 43-15, Norway's hidden marine biodiversity: The hunt for cryptic species within the coralline algae 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Culture Collection of Cryophilic Algae 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Graz, Institute of Plant Sciences - Herbarium GZU 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Masaryk University - Herbarium BRNU 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: TUR Bryophyte collections of the Turku University (TUR) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: marine sediment metagenome Metagenome 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tropicos MO Specimen Data 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Nansen Legacy JC2-1 ice algae biodiversity 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Nansen Legacy Q3 phytoplankton biodiversity 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: L. IS dataset. Cyanoprocaryota, Lichens, Bryophyte 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: The CPR Survey 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Observation.org, Nature data from around the World 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Biofokus 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vascular Plant Herbarium, Oslo (O) UiO 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: RB - Rio de Janeiro Botanical Garden Herbarium Collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Minor impact of ocean acidification to the structure of an Arctic sediment microbial community 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Herbarium Berolinense, Berlin (B) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Nansen Legacy Q2 ice algae biodiversity slurpgun 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Algae herbarium TRH, NTNU University Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Counts of benthos communities in Kongsfjorden in 2009 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: particle-attached and free-living bacteria kongsfjorden 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tallinn Botanic Garden 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Vascular plant herbarium (KMN) UiA 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INSDC Host Organism Sequences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Lund Botanical Museum (LD) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Universität Salzburg 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Nansen Legacy Q4 ice algae biodiversity 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Aldegondabreen cryoconite Targeted Locus 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Nansen Legacy Q2 ice algae biodiversity 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Norwegian Species Observation Service 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Royal BC Museum - Herbarium (V) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CAS Botany (BOT) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: University of Vienna, Institute for Botany - Herbarium WU 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: A global database for the distributions of crop wild relatives 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Arctic Ocean Diversity 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Estonian University of Life Sciences Institute of Agricultural and Environmental Sciences Vascular Plant Herbarium 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Bryophyte herbarium TRH, NTNU University Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Nansen Legacy JC2-1 phytoplankton biodiversity 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: aen-q2-phytoplankton 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Royal Botanic Garden Edinburgh Herbarium (E) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The cryptogamy collection (PC) at the Herbarium of the Muséum national d'Histoire Naturelle (MNHN - Paris) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Global soil organisms 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CRIS data set 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Norwegian Biodiversity Information Centre - Other datasets 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tropicos Specimens Non-MO 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: INSDC Sequences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Temperature shifts simulating secondary oil recovery 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CSIC-Real Jardín Botánico-Colección de Musgos (MA-Musci) 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Steiermärkisches Landesmuseum Joanneum - Herbarium GJO 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Pl@ntNet observations 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Pl@ntNet automatically identified occurrences 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of North Carolina at Chapel Hill Herbarium; Max & Fran Hommersand Algae Herbarium: Algae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: The New York Botanical Garden Herbarium (NY) 
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: NHMO DNA Bank Vascular plants collection 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Moscow University Herbarium (MW) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Photographs of higher plants, mosses, fungi, lichens, and algae 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Taxon occurrence data for the FungalRoot database 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations 
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Uncultered bacterium Targeted Locus (Loci) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Spirulina necromass degradartion in arctic marine sediments 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Culture Collection of Microalgae and Zygnematophyceae Collection Hamburg (MZCH-SVCK) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode

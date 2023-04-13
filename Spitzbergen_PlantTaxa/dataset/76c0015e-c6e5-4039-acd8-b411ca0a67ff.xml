@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="76c0015e-c6e5-4039-acd8-b411ca0a67ff"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+            <alternateIdentifier>10.15468/cb7j5j</alternateIdentifier>
+                <alternateIdentifier>https://www.ebi.ac.uk/metagenomics/studies/MGYS00004300</alternateIdentifier>
+        <title>Uncultered bacterium Targeted Locus (Loci)</title>
+            <creator>
+<organizationName>Uiniverity of Mons</organizationName>            </creator>
+            <metadataProvider>
+<organizationName>Uiniverity of Mons</organizationName>            </metadataProvider>
+            <pubDate>
+                2019-11-07
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>In the context of global warming in the Arctic environment greater understanding of microbial-driven processes related to sediment and hydric transfers is of major importance where these are linked to erosion processes. To add to the research in this area, we investigated the structure of sedimentary microbial communities from three distinct samples collected along a short Glacier-River-Fjord transect in Kongsfjorden (Fjord of Svalbard) at the beginning of the active thaw using a metagenomic approach. A methodological approach was used based on the pyrosequencing of 16S rRNA genes coupled with multiple DNA extractions to overcome major methodological biases, namely DNA extraction and polymerase chain reaction (PCR).</para>
+            </abstract>
+                <keywordSet>
+                        <keyword>Metagenomics</keyword>
+                        <keyword>environmental genomics</keyword>
+                        <keywordThesaurus>N/A</keywordThesaurus>
+                </keywordSet>
+            <intellectualRights>
+                    <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+            </intellectualRights>
+            <distribution scope="document">
+                <online>
+                    <url function="information">https://www.ebi.ac.uk/metagenomics/studies/MGYS00004300</url>
+                </online>
+            </distribution>
+            <maintenance>
+                <description>
+                    <para></para>
+                </description>
+                <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+            </maintenance>
+            <contact>
+<organizationName>Uiniverity of Mons</organizationName>            </contact>
+            <methods>
+                    <methodStep>
+                        <description>
+                            <para>Pipeline used: https://www.ebi.ac.uk/metagenomics/pipelines/4.1</para>
+                        </description>
+                    </methodStep>
+                    <sampling>
+                        <studyExtent>
+                            <description>
+                                <para></para>
+                            </description>
+                        </studyExtent>
+                        <samplingDescription>
+                            <para>In the context of global warming in the Arctic environment greater understanding of microbial-driven processes related to sediment and hydric transfers is of major importance where these are linked to erosion processes. To add to the research in this area, we investigated the structure of sedimentary microbial communities from three distinct samples collected along a short Glacier-River-Fjord transect in Kongsfjorden (Fjord of Svalbard) at the beginning of the active thaw using a metagenomic approach. A methodological approach was used based on the pyrosequencing of 16S rRNA genes coupled with multiple DNA extractions to overcome major methodological biases, namely DNA extraction and polymerase chain reaction (PCR).</para>
+                        </samplingDescription>
+                    </sampling>
+            </methods>
+
+            <project >
+                <title>Uncultered bacterium Targeted Locus (Loci)</title>
+                <abstract>
+                    <para></para>
+                </abstract>
+                <funding>
+                    <para></para>
+                </funding>
+            </project>
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-04-13T10:32:05Z</dateStamp>
+                <citation>MGnify (2019). Uncultered bacterium Targeted Locus (Loci). Sampling event dataset https://doi.org/10.15468/cb7j5j accessed via GBIF.org on 2023-04-13.</citation>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>
