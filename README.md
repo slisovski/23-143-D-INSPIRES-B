@@ -1,4 +1,4 @@
-# 23-61-D-Geo-b
+# 23-143-D-INSPIRES-B
 
 The repository contains two datasets:
 1) Circumarctic map
@@ -8,8 +8,7 @@ Tasks:
 
 Create a multi-panel figure with:
 * a) plant occurrences on a map (summarise locations if needed)
-* b) pie charts of recorded order, families, genus (with relative sample size of the entire dataset)
-* c) barplot with number of observations per month
+* b) a representation of phylogenetic relationships (based on information of the dataset or additional open source data)
 * d) Changes in species diversity over time (years)
 
 
